@@ -1,6 +1,26 @@
 [
   {
+    "package": "cetcolor",
+    "oncran": true
+  },
+  {
+    "package": "jjb",
+    "oncran": true
+  },
+  {
+    "package": "msos",
+    "oncran": true
+  },
+  {
     "package": "RcppEnsmallen",
+    "oncran": true
+  },
+  {
+    "package": "sitmo",
+    "oncran": true
+  },
+  {
+    "package": "visualize",
     "oncran": true
   }
 ]
