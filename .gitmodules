@@ -23,6 +23,11 @@
 	url = https://github.com/coatless-rpkg/rcppensmallen
 	shallow = true
 	registered = true
+[submodule "rgen"]
+	path = rgen
+	url = https://github.com/coatless-rpkg/rgen
+	shallow = true
+	registered = true
 [submodule "sitmo"]
 	path = sitmo
 	url = https://github.com/coatless-rpkg/sitmo

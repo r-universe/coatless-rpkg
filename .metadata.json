@@ -16,6 +16,10 @@
     "oncran": true
   },
   {
+    "package": "rgen",
+    "oncran": true
+  },
+  {
     "package": "sitmo",
     "oncran": true
   },
