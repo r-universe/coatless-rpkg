@@ -3,14 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "cetcolor"]
-	path = cetcolor
-	url = https://github.com/coatless-rpkg/cetcolor
-	shallow = true
-	registered = true
-[submodule "jjb"]
-	path = jjb
-	url = https://github.com/coatless-rpkg/jjb
+[submodule "visualize"]
+	path = visualize
+	url = https://github.com/coatless-rpkg/visualize
 	shallow = true
 	registered = true
 [submodule "msos"]
@@ -23,13 +18,18 @@
 	url = https://github.com/coatless-rpkg/rcppensmallen
 	shallow = true
 	registered = true
+[submodule "cetcolor"]
+	path = cetcolor
+	url = https://github.com/coatless-rpkg/cetcolor
+	shallow = true
+	registered = true
+[submodule "jjb"]
+	path = jjb
+	url = https://github.com/coatless-rpkg/jjb
+	shallow = true
+	registered = true
 [submodule "sitmo"]
 	path = sitmo
 	url = https://github.com/coatless-rpkg/sitmo
-	shallow = true
-	registered = true
-[submodule "visualize"]
-	path = visualize
-	url = https://github.com/coatless-rpkg/visualize
 	shallow = true
 	registered = true

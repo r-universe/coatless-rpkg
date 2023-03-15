@@ -1,10 +1,6 @@
 [
   {
-    "package": "cetcolor",
-    "oncran": true
-  },
-  {
-    "package": "jjb",
+    "package": "visualize",
     "oncran": true
   },
   {
@@ -16,11 +12,15 @@
     "oncran": true
   },
   {
-    "package": "sitmo",
+    "package": "cetcolor",
     "oncran": true
   },
   {
-    "package": "visualize",
+    "package": "jjb",
+    "oncran": true
+  },
+  {
+    "package": "sitmo",
     "oncran": true
   }
 ]
