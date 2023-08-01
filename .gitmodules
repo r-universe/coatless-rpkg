@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "RcppEnsmallen"]
+	path = RcppEnsmallen
+	url = https://github.com/coatless-rpkg/rcppensmallen
 [submodule "cetcolor"]
 	path = cetcolor
 	url = https://github.com/coatless-rpkg/cetcolor
@@ -11,9 +14,6 @@
 [submodule "msos"]
 	path = msos
 	url = https://github.com/coatless-rpkg/msos
-[submodule "RcppEnsmallen"]
-	path = RcppEnsmallen
-	url = https://github.com/coatless-rpkg/rcppensmallen
 [submodule "rgen"]
 	path = rgen
 	url = https://github.com/coatless-rpkg/rgen
