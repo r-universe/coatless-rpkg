@@ -8,6 +8,9 @@
 [submodule "cetcolor"]
 	path = cetcolor
 	url = https://github.com/coatless-rpkg/cetcolor
+[submodule "errorist"]
+	path = errorist
+	url = https://github.com/coatless-rpkg/errorist
 [submodule "jjb"]
 	path = jjb
 	url = https://github.com/coatless-rpkg/jjb
@@ -17,6 +20,9 @@
 [submodule "rgen"]
 	path = rgen
 	url = https://github.com/coatless-rpkg/rgen
+[submodule "searcher"]
+	path = searcher
+	url = https://github.com/coatless-rpkg/searcher
 [submodule "sitmo"]
 	path = sitmo
 	url = https://github.com/coatless-rpkg/sitmo
