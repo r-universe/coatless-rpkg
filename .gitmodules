@@ -26,6 +26,9 @@
 [submodule "sitmo"]
 	path = sitmo
 	url = https://github.com/coatless-rpkg/sitmo
+[submodule "ucimlrepo"]
+	path = ucimlrepo
+	url = https://github.com/coatless-rpkg/ucimlrepo
 [submodule "visualize"]
 	path = visualize
 	url = https://github.com/coatless-rpkg/visualize
