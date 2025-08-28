@@ -17,6 +17,9 @@
 [submodule "msos"]
 	path = msos
 	url = https://github.com/coatless-rpkg/msos
+[submodule "multideploy"]
+	path = multideploy
+	url = https://github.com/coatless-rpkg/multideploy
 [submodule "rgen"]
 	path = rgen
 	url = https://github.com/coatless-rpkg/rgen
