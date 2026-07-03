@@ -8,6 +8,9 @@
 [submodule "cetcolor"]
 	path = cetcolor
 	url = https://github.com/coatless-rpkg/cetcolor
+[submodule "checktor"]
+	path = checktor
+	url = https://github.com/coatless-rpkg/checktor
 [submodule "errorist"]
 	path = errorist
 	url = https://github.com/coatless-rpkg/errorist
@@ -20,6 +23,9 @@
 [submodule "multideploy"]
 	path = multideploy
 	url = https://github.com/coatless-rpkg/multideploy
+[submodule "peeky"]
+	path = peeky
+	url = https://github.com/coatless-rpkg/peeky
 [submodule "rgen"]
 	path = rgen
 	url = https://github.com/coatless-rpkg/rgen
