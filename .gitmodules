@@ -26,6 +26,9 @@
 [submodule "multideploy"]
 	path = multideploy
 	url = https://github.com/coatless-rpkg/multideploy
+[submodule "paintr"]
+	path = paintr
+	url = https://github.com/coatless-rpkg/paintr
 [submodule "peeky"]
 	path = peeky
 	url = https://github.com/coatless-rpkg/peeky
