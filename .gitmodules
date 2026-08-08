@@ -38,6 +38,9 @@
 [submodule "searcher"]
 	path = searcher
 	url = https://github.com/coatless-rpkg/searcher
+[submodule "shinyelectron"]
+	path = shinyelectron
+	url = https://github.com/coatless-rpkg/shinyelectron
 [submodule "sitmo"]
 	path = sitmo
 	url = https://github.com/coatless-rpkg/sitmo
